@@ -19,7 +19,7 @@
 	</build>
 	<packaging>jar</packaging>
 	<properties>
-		<version.commons.lang3>3.6</version.commons.lang3>
+		<version.commons.lang3>3.18.0</version.commons.lang3>
 		<version.commons.collection4>4.1</version.commons.collection4>
 		<version.unitils>3.4.6</version.unitils>
 	</properties>
